@@ -1,0 +1,28 @@
+3a) Query
+xquery version "3.0";
+for $Actor in MOVIES/Movie/Actor
+where $Actor/Age  < 36
+order by $Actor/Age
+return $Actor
+
+Result
+
+ James
+                    32
+                    Canada
+            
+ Jackson
+                    35
+                    Canada
+
+3b) Query
+xquery version "3.0";
+for $Movie in MOVIES/Movie
+where $Movie/Year  <=2018
+where $Movie/Year >=2016
+order by $Movie/Title descending
+return $Movie/Title
+
+Result
+
+Inception

@@ -1,0 +1,20 @@
+Query 1		        Query 2		    Query 3		
+						
+Director Name		Movie Title		Actor Name	            Currency	Cost 
+Todd Phillips		Pulp Fiction	Zac Efron	            CAD	        "1,361,820.00"
+Martin Scorsese				      Barry Keoghan	      JPY	        "147,065,000.00"
+Christopher Nolan				      Jean-Claude Van Damme	RUB	        "61,500,000.00"
+David Fincher				      Miles Teller	      EUR	        "1,004,015.00"
+Quentin Tarantino				      J.K Simmons	            CHF	        "995,620.00"
+						
+Query 4						
+						
+Director ID		Director Name	    Year of birth		City	    		State	    	    Country	        	University Name
+2	        	Martin Scorsese	    1987	        	Cullman	    	Alabama	    United States		George Brown Theatre School
+3	        	Christopher Nolan	    1980	        	Douglas	    	Arizona	    United States		Yorkville University
+						
+						
+Query 5			                      Query 6			
+						
+Actor Name	Movie Title		        	    Actor Name	            Actor Name-2		
+Zac Efron	Joker		            	    Jean-Claude Van Damme	Zac Efron		

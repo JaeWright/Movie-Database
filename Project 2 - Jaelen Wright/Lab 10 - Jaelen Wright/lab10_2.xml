@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MOVIES>
+    <Movie><Title>Joker</Title>
+            <Year>2020</Year>
+            <Budget>$1000000</Budget>
+            <Director>Spielburg</Director>
+            <Rating>9</Rating>
+            <Duration>145</Duration>
+            <Actor> <Name>Rodney</Name>
+                    <Age>42</Age>
+                    <Country>Canada</Country>
+            </Actor>
+            <Actor> <Name>Junior</Name>
+                    <Age>37</Age>
+                    <Country>United States</Country>
+            </Actor>
+    </Movie>
+
+    <Movie><Title>Inception</Title>
+            <Year>2017</Year>
+            <Budget>$10000</Budget>
+            <Director>Gretta</Director>
+            <Rating>7</Rating>
+            <Duration>110</Duration>
+            <Actor> <Name>James</Name>
+                    <Age>32</Age>
+                    <Country>Canada</Country>
+            </Actor>
+            <Actor> <Name>Jackson</Name>
+                    <Age>35</Age>
+                    <Country>Canada</Country>
+            </Actor>
+    </Movie>
+
+    <Movie><Title>Batman</Title>
+            <Year>2022</Year>
+            <Budget>$1000000</Budget>
+            <Director>Humpty</Director>
+            <Rating>10</Rating>
+            <Duration>180</Duration>
+            <Actor> <Name>Patterson</Name>
+                    <Age>41</Age>
+                    <Country>Canada</Country>
+            </Actor>
+            <Actor> <Name>Obama</Name>
+                    <Age>49</Age>
+                    <Country>United States</Country>
+            </Actor>
+    </Movie>
+            
+</MOVIES>
